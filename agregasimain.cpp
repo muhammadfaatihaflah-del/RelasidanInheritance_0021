@@ -17,7 +17,7 @@ int main() //agregasi
     varIbu2->tambahAnak(varAnak3);
     varIbu2->tambahAnak(varAnak1);
 
-    arIbu->cetakAnak();
+    varIbu->cetakAnak();
     varIbu2->cetakAnak();
 
     delete varIbu;
